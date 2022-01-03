@@ -1,6 +1,6 @@
 pragma solidity ^0.5.0;
 
-contract DappToken {
+contract FlowToken {
     string  public name = "FLOW Token";
     string  public symbol = "FLOW";
     uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
